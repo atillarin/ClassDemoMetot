@@ -6,7 +6,7 @@ namespace ClassDemoMetot
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("aaaaabbbbbbbvccc");
+            Console.WriteLine("aaaaabbbccc");
         }
     }
 }
